@@ -1,0 +1,7 @@
+{
+  "name": "webstorm-parameter-info-issues",
+  "private": true,
+  "dependencies": {
+    "lodash": "https://raw.githubusercontent.com/lodash/lodash/2.4.1/dist/lodash.js"
+  }
+}
