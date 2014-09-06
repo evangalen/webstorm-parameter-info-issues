@@ -1,3 +1,6 @@
+// WEB-13275: JSDoc parameter info: word followed by colon (i.e. "Note:") displayed as if parameter
+// ====================================================================================================================
+
 // Place the cursor between the () and do a View -> "Parameter Info" (shortcut Windows/Linux: Ctrl+P, OSX: Meta+P)
 _.parseInt();
 

@@ -1,3 +1,6 @@
+// WEB-13276: JSDoc parameter info: @param that declares a child property of another @param leads to another additional parameter info line
+// ====================================================================================================================
+
 // Place the cursor between the () and do a View -> "Parameter Info" (shortcut Windows/Linux: Ctrl+P, OSX: Meta+P)
 _.debounce();
 

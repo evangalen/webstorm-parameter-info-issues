@@ -1,3 +1,6 @@
+// WEB-13277: JSDoc parameter info: @param's for non existing function arguments leads to another additional parameter info line
+// ====================================================================================================================
+
 // Place the cursor between the () and do a View -> "Parameter Info" (shortcut Windows/Linux: Ctrl+P, OSX: Meta+P)
 _.template();
 
